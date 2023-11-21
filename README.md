@@ -1,7 +1,7 @@
 # Case-study---NLP
-Text processing
-Named Entities tagging
-POS tagging
-Sentiment analysis
-Topic Modelling
-Predicting models
+### Text preprocessing
+### Named Entities tagging
+### POS tagging
+### Sentiment analysis
+### Topic Modelling
+### Predicting models
