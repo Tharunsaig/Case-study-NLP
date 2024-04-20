@@ -1,4 +1,4 @@
-# Case-study---NLP
+# Case study NLP
 ### Text preprocessing
 ### Named Entities tagging
 ### POS tagging
